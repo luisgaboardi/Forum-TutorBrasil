@@ -1,7 +1,7 @@
 ---
 name: Template genérico de Issues
 about: Template para assuntos diversos como documentação e configuração de ferramentas
-title: ''
+title: 'Título da Issue'
 labels: ''
 assignees: ''
 
