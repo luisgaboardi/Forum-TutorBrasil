@@ -1,5 +1,0 @@
-site_name: IHC - Fórum TutorBrasil
-theme: readthedocs
-
-nav:
-  - Home: index.md
