@@ -7,4 +7,10 @@ O Backlog do produto funciona como uma ferramenta auxiliar para garantir que um 
 
 <p align="center">
     <iframe display="block" margin="0 auto" width="70%" height=600 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSEUNDnmv-O8F8HBr4f44PRagmaPWRtbdDvQTbZB7CyCfK28xJ93JEZoDNsWSUGx_LtL_khQlPSZlr9/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-</p> 
+</p>
+
+## Histórico de revisão
+
+| Data | Autor | Modificações | Versão |
+| ---- | ----- | ------------ | ------ |
+| 19/08/2021 | [Luís Lins](https://github.com/luisgaboardi) | Criação do documento e adicionado link dinâmico à planilha do Backlog | 1.0 |
