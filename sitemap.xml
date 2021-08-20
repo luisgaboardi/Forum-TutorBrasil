@@ -2,12 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/</loc>
-         <lastmod>2021-08-19</lastmod>
+         <lastmod>2021-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/management/forms/first/</loc>
-         <lastmod>2021-08-19</lastmod>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/management/communication-plan/</loc>
+         <lastmod>2021-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/management/methodology-plan/</loc>
+         <lastmod>2021-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/management/product-roadmap/</loc>
+         <lastmod>2021-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/CODE_OF_CONDUCT/</loc>
+         <lastmod>2021-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/CONTRIBUTING/</loc>
+         <lastmod>2021-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/high-prototype/</loc>
+         <lastmod>2021-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/low-prototype/</loc>
+         <lastmod>2021-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/mid-prototype/</loc>
+         <lastmod>2021-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/product-backlog/</loc>
+         <lastmod>2021-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/releases/release-1/</loc>
+         <lastmod>2021-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
