@@ -20,6 +20,7 @@ nav:
           - Protótipo de média fidelidade: "project/mid-prototype.md"
           - Protótipo de alta fidelidade: "project/high-prototype.md"
           - Teste de usabilidade: "project/usability-test.md"
+      - Personas: "project/personas.md"
   - Gerência:
       - Plano metodológico:
           - Plano metodológico: "management/methodology-plan.md"
