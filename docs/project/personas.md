@@ -51,4 +51,4 @@ Para aprender mais sobre essas matérias, Caio tenta fazer questões de exatas d
 | Data | Autor | Modificações | Versão |
 | ---- | ----- | ------------ | ------ |
 | 19/08/2021 | [Luís Lins](https://github.com/luisgaboardi) | Criação do documento | 1.0 |
-| 21/08/2021 | [Lucas Gomes](https://github.com/LucasGlopes) | Adição das Personas | 1.1 |
+| 21/08/2021 | [Lucas Gomes](https://github.com/LucasGlopes) | Adição das Personas | 2.0 |
