@@ -12,7 +12,7 @@
 
 | Nome            | GitHub      | E-mail       | 
 |-----------------|-------------|-------------|
-| Fernando Vargas   |  | | 
+| Fernando Vargas   | [SFernandoS](https://github.com/SFernandoS) | 180016491@aluno.unb.br| 
 | Lucas |  |  |  
 | Lucas Gomes  |  |  |
 | Luis Furtado  |  |  |
