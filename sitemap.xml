@@ -6,7 +6,52 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/personas/</loc>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/management/communication-plan/</loc>
+         <lastmod>2021-08-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/management/methodology-plan/</loc>
+         <lastmod>2021-08-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/management/product-roadmap/</loc>
+         <lastmod>2021-08-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/CODE_OF_CONDUCT/</loc>
+         <lastmod>2021-08-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/CONTRIBUTING/</loc>
+         <lastmod>2021-08-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/high-prototype/</loc>
+         <lastmod>2021-08-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/low-prototype/</loc>
+         <lastmod>2021-08-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/mid-prototype/</loc>
+         <lastmod>2021-08-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/product-backlog/</loc>
+         <lastmod>2021-08-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/releases/release-1/</loc>
          <lastmod>2021-08-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
