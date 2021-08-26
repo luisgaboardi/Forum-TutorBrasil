@@ -26,7 +26,7 @@ nav:
           - Plano metodológico: "management/methodology-plan.md"
           - Plano de comunicação: "management/communication-plan.md"
       - Roadmap do Produto: "management/product-roadmap.md"
-      - Reuniões com Usuários:
-          - Reunião 1: "management/po-meetings/meeting-1.md"
+      - Questionário de usabilidade com Usuários:
+          - Questionário 1: "management/forms/first.md"
   - Pontos de Controle:
       - Ponto de Controle 1: "releases/release-1.md"
