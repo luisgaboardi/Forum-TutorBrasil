@@ -8,7 +8,7 @@
 ##### Caio, estudante de curso pré-vestibular
 
 <center>
-    <img src="../../images/personas/caio.png" alt="Caio" style="width:180px;"/>
+    <img src="../../assets/personas/caio.png" alt="Caio" style="width:180px;"/>
 </center>
 <p style="text-indent: 40px; align="justify">Caio, de 19 anos, sempre sonhou em fazer Medicina. Infelizmente, ele não foi aprovado pelo PAS ou ENEM e agora está em um cursinho pré-vestibular após o fim do ensino médio. Caio atualmente não trabalha e seus dias consistem em ir ao cursinho de manhã, estudar à tarde e ir à academia à noite.</p>
 
@@ -20,7 +20,7 @@ Para aprender mais sobre essas matérias, Caio tenta fazer questões de exatas d
 ##### Maria, estudante do Ensino Médio
 
 <center>
-    <img src="../../images/personas/maria.png" alt="Maria" style="width:180px;"/>
+    <img src="../../assets/personas/maria.png" alt="Maria" style="width:180px;"/>
 </center>
 <p style="text-indent: 40px; align="justify">Maria, de 16 anos, está atualmente no 2º ano do Ensino Médio. Ela já planeja fazer o Enem como treineira esse ano para se preparar para o ano que vem. </p>
 
@@ -32,7 +32,7 @@ Para aprender mais sobre essas matérias, Caio tenta fazer questões de exatas d
 ##### Alexandre, estudante de Engenharia Mecânica
 
 <center>
-    <img src="../../images/personas/alexandre.png" alt="Alexandre" style="width:320px;"/>
+    <img src="../../assets/personas/alexandre.png" alt="Alexandre" style="width:320px;"/>
 </center>
 <p style="text-indent: 40px; align="justify">Alexandre, de 20 anos, está atualmente no primeiro semestre de Engenharia Mecânica. Além disso, ele também trabalha para complementar a renda de sua família. </p>
 

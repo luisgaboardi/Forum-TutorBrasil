@@ -7,26 +7,39 @@ site_url: "https://luisgaboardi.github.io/Forum-TutorBrasil"
 repo_name: "Fórum TutorBrasil"
 repo_url: "https://github.com/luisgaboardi/Forum-TutorBrasil"
 
-theme: readthedocs
+theme:
+  logo: ''
+  favicon: ''
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  features:
+    - navigation.tabs
+  language: "pt"
+  name: "material"
+  palette:
+    primary: "green"
+    accent: "black"
 
 # Content Menu
 nav:
+  - Home: 'index.md'
   - Projeto:
-      - Requisitos:
-        - alguma coisa: "nada.md"
+      - Backlog: "project/product-backlog.md"
+      - Personas: "project/personas.md"
       - Design:
-          - Identidade visual: "project/visual-identity.md"
           - Protótipo de baixa fidelidade: "project/low-prototype.md"
           - Protótipo de média fidelidade: "project/mid-prototype.md"
           - Protótipo de alta fidelidade: "project/high-prototype.md"
-          - Teste de usabilidade: "project/usability-test.md"
-      - Personas: "project/personas.md"
+      - Comunidade:
+          - Código de conduta: "project/CODE_OF_CONDUCT.md"
+          - Diretrizes de contribuição: "project/CONTRIBUTING.md"
+      - Questionários com Usuários:
+          - Questionário 1: "project/forms/first.md"
   - Gerência:
       - Plano metodológico:
           - Plano metodológico: "management/methodology-plan.md"
           - Plano de comunicação: "management/communication-plan.md"
       - Roadmap do Produto: "management/product-roadmap.md"
-      - Questionário de usabilidade com Usuários:
-          - Questionário 1: "management/forms/first.md"
   - Pontos de Controle:
       - Ponto de Controle 1: "releases/release-1.md"
