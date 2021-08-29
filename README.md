@@ -17,7 +17,7 @@ Para a documentação completa, acesse: https://luisgaboardi.github.io/Forum-Tut
 | Nome            | GitHub      | E-mail       | 
 |-----------------|-------------|-------------|
 | Fernando Vargas   | SFernandoS | | 
-| Lucas Rodrigues | nickby2 |  |  
+| Lucas Rodrigues | nickby2 | 180125974@aluno.unb.br |  
 | Lucas Gomes  | LucasGlopes |  |
 | Luis Furtado  | luis-furtado |  |
 | Luis Lins  | luisgaboardi | 180022962@aluno.unb.br |
