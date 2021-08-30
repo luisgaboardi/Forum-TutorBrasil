@@ -14,7 +14,7 @@
 
 * O Tutor Brasil, é um fórum de estudos para estudantes do nível fundamental, médio e superior. O objetivo principal do fórum é reunir grupos de alunos para elaborar e resolver diversos tipos de exercícios de diferentes diciplinas. 
 
-![](home/lucas/Forum-TutorBrasil/docs/assets/low-prototype/low-prototype-01.jpeg)
-![](home/lucas/Forum-TutorBrasil/docs/assets/low-prototype/low-prototype-02.jpeg)
-![](home/lucas/Forum-TutorBrasil/docs/assets/low-prototype/low-prototype-03.jpeg)
-![](home/lucas/Forum-TutorBrasil/docs/assets/low-prototype/low-prototype-04.jpeg)
+![](../../docs/assets/low-prototype/low-prototype-01.jpeg)
+![](../../docs/assets/low-prototype/low-prototype-02.jpeg)
+![](../../docs/assets/low-prototype/low-prototype-03.jpeg)
+![](../../docs/assets/low-prototype/low-prototype-04.jpeg)
