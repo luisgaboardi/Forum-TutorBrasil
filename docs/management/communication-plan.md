@@ -8,7 +8,7 @@ O grupo tem se reunido mediante ferramentas online pelo menos uma vez por semana
 ## Ferramentas
 
 <center>
-    ![](../assets/tools/github.png)
+    <img src="../../assets/tools/github.png" alt="GitHib" style="width:180px;"/>
 </center>
 <p align="center">
     O Github foi utilizado para o controle de versionamento e armazenamento de todos os documentos que serão produzidos pelo grupo. Além disso, a nossa Wiki está hospedada na plataforma GitHub Pages.
@@ -16,7 +16,7 @@ O grupo tem se reunido mediante ferramentas online pelo menos uma vez por semana
 </br>
 
 <center>
-    ![](../assets/tools/telegram.png)
+    <img src="../../assets/tools/telegram.png" alt="Telegram" style="width:180px;"/>
 </center>
 <p align="center">
     O Telegram é utilizado para a facilitar a comunicação entre os membros do grupo. Por lá, é discutido o ritmo do grupo, a prioridade da semana, respostas de dúvidas pontuais e para marcar reuniões.
@@ -24,7 +24,7 @@ O grupo tem se reunido mediante ferramentas online pelo menos uma vez por semana
 </br>
 
 <center>
-    ![](../assets/tools/teams.png)
+    <img src="../../assets/tools/teams.png" alt="Teams" style="width:180px;"/>
 </center>
 <p align="center">
     A plataforma Microsoft Teams foi utilizada para as reuniões, em que dividimos as tarefas e discutimos o andamento do projeto.
@@ -33,7 +33,7 @@ O grupo tem se reunido mediante ferramentas online pelo menos uma vez por semana
 </br>
 
 <center>
-    ![](../assets/tools/drive.png)
+    <img src="../../assets/tools/drive.png" alt="Drive" style="width:180px;"/>
 </center>
 <p align="center">
     A plataforma Google Drive foi usada para armazenar material teórico para o trabalho, além de ter salvado a documentação feita anterior à criação do GitHub.
@@ -42,7 +42,7 @@ O grupo tem se reunido mediante ferramentas online pelo menos uma vez por semana
 </br>
 
 <center>
-    ![](../assets/tools/figma.png)
+    <img src="../../assets/tools/figma.png" alt="Figma" style="width:180px;"/>
 </center>
 <p align="center">
     A plataforma Figma foi utilizada para o desenvolvimento dos <a href="https://luisgaboardi.github.io/Forum-TutorBrasil/project/mid-prototype/">protótipos de média fidelidade</a> e de <a href="https://luisgaboardi.github.io/Forum-TutorBrasil/project/high-prototype/">alta fidelidade</a>, nas etapas práticas do nosso projeto.
