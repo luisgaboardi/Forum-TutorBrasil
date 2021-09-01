@@ -35,7 +35,7 @@ nav:
           - Código de conduta: "project/CODE_OF_CONDUCT.md"
           - Diretrizes de contribuição: "project/CONTRIBUTING.md"
       - Questionários com Usuários:
-          - Questionário 1: "project/forms/first.md"
+          - Questionário 1: "project/surveys/survey-01.md"
   - Gerência:
       - Plano metodológico:
           - Plano metodológico: "management/methodology-plan.md"
@@ -43,3 +43,4 @@ nav:
       - Roadmap do Produto: "management/product-roadmap.md"
   - Pontos de Controle:
       - Ponto de Controle 1: "releases/release-0.md"
+      - Ponto de Controle 2: "releases/release-1.md"
