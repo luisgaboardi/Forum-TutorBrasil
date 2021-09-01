@@ -27,6 +27,7 @@ nav:
   - Projeto:
       - Backlog: "project/product-backlog.md"
       - Personas: "project/personas.md"
+      - Identidade Visual: "project/visual-identity.md"
       - Design:
           - Protótipo de baixa fidelidade: "project/low-prototype.md"
           - Protótipo de média fidelidade: "project/mid-prototype.md"
