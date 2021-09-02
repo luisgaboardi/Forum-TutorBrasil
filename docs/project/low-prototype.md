@@ -1,13 +1,5 @@
 # Protótipo de Baixa Fidelidade
 
-## Histórico de revisão
-
-| Data | Autor | Modificações | Versão |
-| ---- | ----- | ------------ | ------ |
-| 19/08/2021 | [Luís Lins](https://github.com/luisgaboardi) | Criação do documento | 1.0 |
-| 29/08/2021 | [Lucas Rodrigues](https://github.com/nickby2) | Adicionando introdução, apresentação e imagens | 2.0 |
-| 30/08/2021 | [Luís Lins](https://github.com/luisgaboardi) | Melhorias no texto | 3.0 |
-
 ## Introdução
 
 Um Protótipo de Baixa Fidelidade visa definir de modo simples como seria a interação do usuário com o projeto, tendo pouca preocupação com elementos ligados ao design, em especial, paleta de cores e detalhes. Muitas vezes é utilizado para auxiliar na definição do projeto e levantamento dos requisitos necessários. 
@@ -29,3 +21,11 @@ O TutorBrasil é um fórum de estudos para estudantes do nível fundamental, mé
 
 ### Página de resolução de exercícios
 <img src="../../assets/low-prototype/low-prototype-04.jpeg" alt="Protótipo de Baixa Fidelidade Foto 4"/>
+
+## Histórico de revisão
+
+| Data | Autor | Modificações | Versão |
+| ---- | ----- | ------------ | ------ |
+| 19/08/2021 | [Luís Lins](https://github.com/luisgaboardi) | Criação do documento | 1.0 |
+| 29/08/2021 | [Lucas Rodrigues](https://github.com/nickby2) | Adicionando introdução, apresentação e imagens | 2.0 |
+| 30/08/2021 | [Luís Lins](https://github.com/luisgaboardi) | Melhorias no texto | 3.0 |

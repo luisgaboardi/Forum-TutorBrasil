@@ -27,19 +27,21 @@ nav:
   - Projeto:
       - Backlog: "project/product-backlog.md"
       - Personas: "project/personas.md"
+      - Identidade Visual: "project/visual-identity.md"
       - Design:
           - Protótipo de baixa fidelidade: "project/low-prototype.md"
           - Protótipo de média fidelidade: "project/mid-prototype.md"
           - Protótipo de alta fidelidade: "project/high-prototype.md"
+      - Questionários com Usuários:
+          - Questionário 1: "project/surveys/survey-01.md"
       - Comunidade:
           - Código de conduta: "project/CODE_OF_CONDUCT.md"
           - Diretrizes de contribuição: "project/CONTRIBUTING.md"
-      - Questionários com Usuários:
-          - Questionário 1: "project/forms/first.md"
   - Gerência:
       - Plano metodológico:
           - Plano metodológico: "management/methodology-plan.md"
           - Plano de comunicação: "management/communication-plan.md"
       - Roadmap do Produto: "management/product-roadmap.md"
   - Pontos de Controle:
-      - Ponto de Controle 1: "releases/release-1.md"
+      - 1º Ponto de Controle: "releases/release-0.md"
+      - 2º Ponto de Controle: "releases/release-1.md"
