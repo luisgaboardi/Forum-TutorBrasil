@@ -86,9 +86,26 @@ O questionário obteve 49 respostas:
 
 <img src="../../../assets/form1_questions/question17.png" alt="Questão 17"/>
 
+## Conclusão
+
+Analisando os resultados do questionário, foi possível chegar às seguintes conclusões:
+
+<ul>
+    <li>A maioria dos entrevistados nunca utilizou o Fórum TutorBrasil, possui entre 16 e 25 anos, possui o Ensino Médio ou o Ensino Superior completo e tem uma boa capacidade de navegação pela internet.</li>
+    <li>Entre os entrevistados que já usaram o fórum, é possível observar que:</li>
+        <ul style="margin-left: 40px;">
+            <li>A maioria acessa pelo desktop e teve alguma dificuldade ao acessar o fórum pela primeira vez.</li>
+            <li>Dos que já postaram um tópico, apenas 1 terço encontrou algum problema durante o processo.</li>
+            <li>A maioria voltaria a utilizar o fórum.</li>
+        </ul>
+    <li>A maioria considera que as instruções para criar tópicos cumprem o propósito, mas não conseguem entender o que significa cada ícone de tópico apenas olhando a imagem, já que o fórum não possui uma legenda para cada um desses ícones.</li>
+    <li>A maioria dos entrevistados considera a interface poluída e pouco intuitiva.</li>
+</ul>
+
 ## Histórico de revisão
 
 | Data | Autor | Modificações | Versão |
 | ---- | ----- | ------------ | ------ |
 | 17/08/2021 | [Luís Furtado](https://github.com/luis-furtado) | Criação do documento e adição da introdução e da metodologia | 1.0 |
 | 01/09/2021 | [Lucas Gomes](https://github.com/LucasGlopes) | Adição dos resultados | 2.0 |
+| 02/09/2021 | [Lucas Gomes](https://github.com/LucasGlopes) | Adição da conclusão | 3.0 |
