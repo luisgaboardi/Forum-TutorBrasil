@@ -10,17 +10,17 @@ Identidade visual é o conjunto de elementos gráficos que objetivam comunicar a
 
 ## Paleta de cores
 
-Para realizar a definição das cores, escolhemos manter as cores atual do site, entretanto, adicionando alguns outros tons, afim de modernizar a sua interface e a disposição de cores do site, de acordo com as definições do protótipo de baixa e média fidelidade. Com as cores escolhidas podemos ver um exemplo do protótipo de média fidelidade para observarmos como ficaria a interface:
-
-![exemplo_paleta_aplicada](../assets/visual-identity/pallete_example.png)
-
-## Paleta
+Para realizar a definição das cores, escolhemos manter as cores atual do site, entretanto, adicionando alguns outros tons, afim de modernizar a sua interface e a disposição de cores do site, de acordo com as definições do protótipo de baixa e média fidelidade.
 
 ![paleta_1](../assets/visual-identity/pallete_1.png)
 
 ![paleta_2](../assets/visual-identity/pallete_2.png)
 
 ![paleta_3](../assets/visual-identity/pallete_3.png)
+
+Com as cores escolhidas podemos ver um exemplo do protótipo de média fidelidade para observarmos como ficaria a interface:
+
+![exemplo_paleta_aplicada](../assets/visual-identity/pallete_example.png)
 
 ## Tipografia
 
