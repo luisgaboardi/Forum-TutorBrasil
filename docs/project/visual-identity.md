@@ -38,7 +38,8 @@ A logomarca não será alterada de nenhuma maneira, mantendo o seu padrão de de
 
 ## Referências
 
-[1]: **Adobe Color CC**. Disponível em: https://color.adobe.com/pt/create/color-wheel/. Acesso em: 01 set. 2021.
+- **Adobe Color CC**. Disponível em: https://color.adobe.com/pt/create/color-wheel/. Acesso em: 01 set. 2021.
+- **Figma**. Disponível em: https://figma.com/.
 
 ## Histórico de revisão
 
@@ -46,3 +47,4 @@ A logomarca não será alterada de nenhuma maneira, mantendo o seu padrão de de
 | ---- | ----- | ------------ | ------ |
 | 01/09/2021 | [Luís Lins](https://github.com/luisgaboardi) | Criação do documento, introdução e paleta de cores | 1.0 |
 | 01/09/2021 | [Luís Lins](https://github.com/luisgaboardi) | Adiciona tipografia, informações da interface, logomarca e referências | 2.0 |
+| 10/09/2021 | [Luís Lins](https://github.com/luisgaboardi) | Adiciona imagem de exemplo com a paleta de cores aplicada | 3.0 |
