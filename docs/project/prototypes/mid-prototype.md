@@ -24,16 +24,16 @@ De acordo com o conteúdo de Interação Humano Computador o grupo foi reunindo 
 ## Protótipo
 
 ### Página inicial
-<img src="../../assets/mid-prototype/mid-prototype-01.png" alt="Protótipo de Média Fidelidade Foto 1"/>
+<img src="../../../assets/prototypes/mid-prototype/mid-prototype-01.png" alt="Protótipo de Média Fidelidade Foto 1"/>
 
 ### Escolha de Tema e Resultado de Pesquisa
-<img src="../../assets/mid-prototype/mid-prototype-02.png" alt="Protótipo de Média Fidelidade Foto 2"/>
+<img src="../../../assets/prototypes/mid-prototype/mid-prototype-02.png" alt="Protótipo de Média Fidelidade Foto 2"/>
 
 ### Respostas e Resoluções de Exercícios
-<img src="../../assets/mid-prototype/mid-prototype-03.jpg" alt="Protótipo de Média Fidelidade Foto 3"/>
+<img src="../../../assets/prototypes/mid-prototype/mid-prototype-03.jpg" alt="Protótipo de Média Fidelidade Foto 3"/>
 
 ### Elaboração de Exercícios
-<img src="../../assets/mid-prototype/mid-prototype-04.png" alt="Protótipo de Média Fidelidade Foto 4"/>
+<img src="../../../assets/prototypes/mid-prototype/mid-prototype-04.png" alt="Protótipo de Média Fidelidade Foto 4"/>
 
 ## Histórico de revisão
 
@@ -43,3 +43,4 @@ De acordo com o conteúdo de Interação Humano Computador o grupo foi reunindo 
 | 10/09/2021 | [Luís Lins](https://github.com/luisgaboardi) | Adiciona introdução e organização do conteúdo do documento | 2.0 |
 | 16/09/2021 | Ugor Costa | Adiciona conteúdo e imagens da página  | 3.0 |
 | 17/09/2021 | [Luís Lins](https://github.com/luisgaboardi) | Arruma espaçamento dos tópicos e reorganiza imagens | 4.0 |
+| 17/09/2021 | [Luís Lins](https://github.com/luisgaboardi) | Arruma caminho para as imagens | 5.0 |

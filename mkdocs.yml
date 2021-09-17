@@ -29,18 +29,16 @@ nav:
       - Personas: "project/personas.md"
       - Identidade Visual: "project/visual-identity.md"
       - Design:
-          - Protótipo de baixa fidelidade: "project/low-prototype.md"
-          - Protótipo de média fidelidade: "project/mid-prototype.md"
-          - Protótipo de alta fidelidade: "project/high-prototype.md"
+          - Protótipo de baixa fidelidade: "project/prototypes/low-prototype.md"
+          - Protótipo de média fidelidade: "project/prototypes/mid-prototype.md"
+          - Protótipo de alta fidelidade: "project/prototypes/high-prototype.md"
       - Questionários com Usuários:
           - Questionário 1: "project/surveys/survey-01.md"
       - Comunidade:
           - Código de conduta: "project/CODE_OF_CONDUCT.md"
           - Diretrizes de contribuição: "project/CONTRIBUTING.md"
   - Gerência:
-      - Plano metodológico:
-          - Plano metodológico: "management/methodology-plan.md"
-          - Plano de comunicação: "management/communication-plan.md"
+      - Plano de comunicação: "management/communication-plan.md"
       - Roadmap do Produto: "management/product-roadmap.md"
   - Pontos de Controle:
       - 1º Ponto de Controle: "releases/release-0.md"

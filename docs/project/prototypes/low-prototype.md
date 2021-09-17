@@ -11,16 +11,17 @@ O TutorBrasil é um fórum de estudos para estudantes do nível fundamental, mé
 ## Protótipo
 
 ### Página inicial
-<img src="../../assets/low-prototype/low-prototype-01.jpeg" alt="Protótipo de Baixa Fidelidade Foto 1"/>
+<img src="../../../assets/prototypes/low-prototype/low-prototype-01.jpeg" alt="Protótipo de MédiBaixa Fidelidade Foto 1"/>
+
 
 ### Página de resultados de pesquisa de tópico
-<img src="../../assets/low-prototype/low-prototype-02.jpeg" alt="Protótipo de Baixa Fidelidade Foto 2"/>
+<img src="../../../assets/prototypes/low-prototype/low-prototype-02.jpeg" alt="Protótipo de MédiBaixa Fidelidade Foto 2"/>
 
 ### Página de elaboração de exercícios
-<img src="../../assets/low-prototype/low-prototype-03.jpeg" alt="Protótipo de Baixa Fidelidade Foto 3"/>
+<img src="../../../assets/prototypes/low-prototype/low-prototype-03.jpeg" alt="Protótipo de MédiBaixa Fidelidade Foto 3"/>
 
 ### Página de resolução de exercícios
-<img src="../../assets/low-prototype/low-prototype-04.jpeg" alt="Protótipo de Baixa Fidelidade Foto 4"/>
+<img src="../../../assets/prototypes/low-prototype/low-prototype-04.jpeg" alt="Protótipo de MédiBaixa Fidelidade Foto 4"/>
 
 ## Histórico de revisão
 
@@ -29,3 +30,4 @@ O TutorBrasil é um fórum de estudos para estudantes do nível fundamental, mé
 | 19/08/2021 | [Luís Lins](https://github.com/luisgaboardi) | Criação do documento | 1.0 |
 | 29/08/2021 | [Lucas Rodrigues](https://github.com/nickby2) | Adicionando introdução, apresentação e imagens | 2.0 |
 | 30/08/2021 | [Luís Lins](https://github.com/luisgaboardi) | Melhorias no texto | 3.0 |
+| 17/09/2021 | [Luís Lins](https://github.com/luisgaboardi) | Arruma caminho para as imagens | 4.0 |
