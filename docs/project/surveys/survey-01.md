@@ -24,67 +24,67 @@ O questionário obteve 49 respostas:
 ### Seção 1 - Inicial
 
 #### Questão 1
-<img src="../../../assets/form1_questions/question1.png" alt="Questão 1"/>
+<img src="../../../assets/survey-1/question1.png" alt="Questão 1"/>
 
 #### Questão 2
-<img src="../../../assets/form1_questions/question2.png" alt="Questão 2"/>
+<img src="../../../assets/survey-1/question2.png" alt="Questão 2"/>
 
 #### Questão 3
-<img src="../../../assets/form1_questions/question3.png" alt="Questão 3"/>
+<img src="../../../assets/survey-1/question3.png" alt="Questão 3"/>
 
 #### Questão 4
-<img src="../../../assets/form1_questions/question4.png" alt="Questão 4"/>
+<img src="../../../assets/survey-1/question4.png" alt="Questão 4"/>
 
 ### Seção 2 - Usabilidade do Fórum
 <p style="text-indent: 40px; align="justify"> Seção exclusiva para pessoas que já utilizaram o Fórum TutorBrasil.</p>
 
 #### Questão 5
-<img src="../../../assets/form1_questions/question5.png" alt="Questão 5"/>
+<img src="../../../assets/survey-1/question5.png" alt="Questão 5"/>
 
 #### Questão 6
-<img src="../../../assets/form1_questions/question6.png" alt="Questão 6"/>
+<img src="../../../assets/survey-1/question6.png" alt="Questão 6"/>
 
 #### Questão 7
-<img src="../../../assets/form1_questions/question7.png" alt="Questão 7"/>
+<img src="../../../assets/survey-1/question7.png" alt="Questão 7"/>
 
 #### Questão 8
-<img src="../../../assets/form1_questions/question8.png" alt="Questão 8"/>
+<img src="../../../assets/survey-1/question8.png" alt="Questão 8"/>
 
 #### Questão 9
-<img src="../../../assets/form1_questions/question9.png" alt="Questão 9"/>
+<img src="../../../assets/survey-1/question9.png" alt="Questão 9"/>
 
 #### Questão 10
-<img src="../../../assets/form1_questions/question10.png" alt="Questão 10"/>
+<img src="../../../assets/survey-1/question10.png" alt="Questão 10"/>
 
 #### Questão 11
-<img src="../../../assets/form1_questions/question11.png" alt="Questão 11"/>
+<img src="../../../assets/survey-1/question11.png" alt="Questão 11"/>
 
 #### Questão 12
-<img src="../../../assets/form1_questions/question12.png" alt="Questão 12"/>
+<img src="../../../assets/survey-1/question12.png" alt="Questão 12"/>
 
 #### Questão 13
-<img src="../../../assets/form1_questions/question13.png" alt="Questão 13"/>
+<img src="../../../assets/survey-1/question13.png" alt="Questão 13"/>
 
 ### Seção 3 - Interface do Fórum
 
 
 #### Questão 14
-<img src="../../../assets/form1_questions/question14b.png" alt="Página inicial do Fórum TutorBrasil"/>
+<img src="../../../assets/survey-1/question14b.png" alt="Página inicial do Fórum TutorBrasil"/>
 
-<img src="../../../assets/form1_questions/question14.png" alt="Questão 14"/>
+<img src="../../../assets/survey-1/question14.png" alt="Questão 14"/>
 
 #### Questão 15
-<img src="../../../assets/form1_questions/question15.png" alt="Questão 15"/>
+<img src="../../../assets/survey-1/question15.png" alt="Questão 15"/>
 
 #### Questão 16
-<img src="../../../assets/form1_questions/question16b.png" alt="Instruções para postar perguntas no Fórum"/>
+<img src="../../../assets/survey-1/question16b.png" alt="Instruções para postar perguntas no Fórum"/>
 
-<img src="../../../assets/form1_questions/question16.png" alt="Questão 16"/>
+<img src="../../../assets/survey-1/question16.png" alt="Questão 16"/>
 
 #### Questão 17
-<img src="../../../assets/form1_questions/question17b.png" alt="Ícones de Tópicos"/>
+<img src="../../../assets/survey-1/question17b.png" alt="Ícones de Tópicos"/>
 
-<img src="../../../assets/form1_questions/question17.png" alt="Questão 17"/>
+<img src="../../../assets/survey-1/question17.png" alt="Questão 17"/>
 
 ## Conclusão
 
