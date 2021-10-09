@@ -16,7 +16,7 @@
 |-----------------|-------------|-------------|
 | Fernando Vargas   | SFernandoS | | 
 | Lucas Rodrigues | nickby2 |  |  
-| Lucas Gomes  | LucasGlopes |  |
+| Lucas Gomes  | LucasGlopes | 170080102@aluno.unb.br |
 | Luis Furtado  | luis-furtado |  |
 | Luis Lins  | luisgaboardi | 180022962@aluno.unb.br |
 | Ugor Brandão  | ubrando  | 170164257@aluno.unb.br  |

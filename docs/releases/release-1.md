@@ -1,7 +1,7 @@
-# 1º Ponto de Controle
+# 2º Ponto de Controle
 
 ## Descrição
-O primeiro ponto de controle da disciplina serviu para a discussão do tema da equipe junto com o professor, seguida da elaboração de um backlog e de um cronograma provisório de desenvolvimento para a equipe.
+O segundo ponto de controle da disciplina serviu como espaço para atualizar o andamento do projeto para o professor e para turma. Nele, discutimos sobre o [protótipo de baixa fidelidade](../project/prototypes/low-prototype.md), o [questionário de usabilidade](../project/surveys/survey-01.md) do site e também sobre toda a questão e documentação da gerência do projeto, tal como as [personas](../project/personas.md).
 
 ## Apresentação
 
@@ -18,9 +18,18 @@ O primeiro ponto de controle da disciplina serviu para a discussão do tema da e
 ![image_11](../assets/releases/release-1/release-1-11.jpg)
 ![image_12](../assets/releases/release-1/release-1-12.jpg)
 ![image_13](../assets/releases/release-1/release-1-13.jpg)
+![image_14](../assets/releases/release-1/release-1-14.jpg)
+![image_15](../assets/releases/release-1/release-1-15.jpg)
+![image_16](../assets/releases/release-1/release-1-16.jpg)
+![image_17](../assets/releases/release-1/release-1-17.jpg)
+![image_18](../assets/releases/release-1/release-1-18.jpg)
+![image_19](../assets/releases/release-1/release-1-19.jpg)
+![image_20](../assets/releases/release-1/release-1-20.jpg)
+![image_21](../assets/releases/release-1/release-1-21.jpg)
 
 ## Histórico de revisão
 
 | Data | Autor | Modificações | Versão |
 | ---- | ----- | ------------ | ------ |
-| 19/08/2021 | [Luís Lins](https://github.com/luisgaboardi) | Adiciona descrição e apresentação do ponto de controle | 1.0 |
+| 01/09/2021 | [Luís Lins](https://github.com/luisgaboardi) | Criação do arquivo e adiciona descrição | 1.0 |
+| 01/09/2021 | [Luís Lins](https://github.com/luisgaboardi) | Adiciona apresentação | 2.0 |
