@@ -36,7 +36,7 @@ Para aprender mais sobre essas matérias, Caio tenta fazer questões de exatas d
 </center>
 <p style="text-indent: 40px; align="justify">Alexandre, de 20 anos, está atualmente no primeiro semestre de Engenharia Mecânica. Além disso, ele também trabalha para complementar a renda de sua família. </p>
 
-<p style="text-indent: 40px; align="justify">AE, nesse primeiro semestre, Alexandre está cursando matérias como Cálculo 1, Física e Química. Alexandre possui facilidade com as duas primeiras, mas ainda acha Química complicada. Para contornar esse problema, Alexandre pegou o livro-texto da disciplina de Química e deseja resolver a maioria dos exercícios do livro.</p>
+<p style="text-indent: 40px; align="justify">E, nesse primeiro semestre, Alexandre está cursando matérias como Cálculo 1, Física e Química. Alexandre possui facilidade com as duas primeiras, mas ainda acha Química complicada. Para contornar esse problema, Alexandre pegou o livro-texto da disciplina de Química e deseja resolver a maioria dos exercícios do livro.</p>
 
 <p style="text-indent: 40px; align="justify">Alexandre não consegue frequentar as monitorias dessa matéria pois ele está trabalhando no horário que elas ocorrem e só consegue estudar esses conteúdos à noite, em sua casa. Portanto, ele precisa de alguma outra forma de tirar suas dúvidas.</p>
 
