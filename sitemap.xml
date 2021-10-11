@@ -41,12 +41,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/interviews/interview-01/</loc>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/interviews/interview-results/</loc>
          <lastmod>2021-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/interviews/interview-02/</loc>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/project/interviews/interview-script/</loc>
          <lastmod>2021-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -77,6 +77,11 @@
     </url>
     <url>
          <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/releases/release-1/</loc>
+         <lastmod>2021-10-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://luisgaboardi.github.io/Forum-TutorBrasil/releases/release-2/</loc>
          <lastmod>2021-10-11</lastmod>
          <changefreq>daily</changefreq>
     </url>
