@@ -35,8 +35,8 @@ nav:
       - Questionários com Usuários:
           - Questionário 1: "project/surveys/survey-01.md"
       - Entrevistas com Usuários:
-          - Roteiro do Teste de Usabilidade: "project/interviews/interview-01.md"
-          - Entrevistas: "project/interviews/interview-02.md"
+          - Roteiro do Teste de Usabilidade: "project/interviews/interview-script.md"
+          - Entrevistas: "project/interviews/interview-results.md"
       - Comunidade:
           - Código de conduta: "project/CODE_OF_CONDUCT.md"
           - Diretrizes de contribuição: "project/CONTRIBUTING.md"
@@ -46,3 +46,4 @@ nav:
   - Pontos de Controle:
       - 1º Ponto de Controle: "releases/release-0.md"
       - 2º Ponto de Controle: "releases/release-1.md"
+      - 3º Ponto de Controle: "releases/release-2.md"

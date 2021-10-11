@@ -1,7 +1,7 @@
 # Entrevistas com Usuários
 
 ## Introdução
-Para avaliar o [Protótipo de Média Fidelidade](../prototypes/mid-prototype.md), o grupo realizou entrevistas com usuários, identificados como público-alvo, com base no [Roteiro do Teste de Usabilidade](../interview-01).
+Para avaliar o [Protótipo de Média Fidelidade](../prototypes/mid-prototype.md), o grupo realizou entrevistas com usuários, identificados como público-alvo, com base no [Roteiro do Teste de Usabilidade](../interview-script).
 
 ## Entrevistas
 
