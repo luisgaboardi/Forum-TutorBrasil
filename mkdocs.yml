@@ -35,7 +35,8 @@ nav:
       - Questionários com Usuários:
           - Questionário 1: "project/surveys/survey-01.md"
       - Entrevistas com Usuários:
-          - Entrevista 1: "project/interviews/interview-01.md"
+          - Roteiro do Teste de Usabilidade: "project/interviews/interview-01.md"
+          - Entrevistas: "project/interviews/interview-02.md"
       - Comunidade:
           - Código de conduta: "project/CODE_OF_CONDUCT.md"
           - Diretrizes de contribuição: "project/CONTRIBUTING.md"
